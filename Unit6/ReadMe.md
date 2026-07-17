@@ -98,7 +98,7 @@ Sometimes that helped.
 
 Sometimes it confused me.
 
-But by the end of Unit 6, I realised that programming languages are more alike than they are different. Variables, loops, functions, dictionaries, and conditionals all exist for the same reason—they help us solve problems.
+But by the end of Unit 6, I realised that programming languages are more alike than they are different. Variables, loops, functions, dictionaries, and conditionals all exist for the same reason,they help us solve problems.
 
 The syntax changed.
 
