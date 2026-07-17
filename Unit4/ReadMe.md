@@ -81,7 +81,7 @@ This unit felt almost identical to writing decision-making logic in C#.
 | OR | `or` | `||` |
 | Equal To | `==` | `==` |
 
-The logic never changed—only the syntax did. Once I stopped thinking about Python as a completely different language, these exercises became much easier.
+The logic never changed,only the syntax did. Once I stopped thinking about Python as a completely different language, these exercises became much easier.
 
 ---
 
