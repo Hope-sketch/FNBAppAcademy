@@ -73,7 +73,7 @@ Download Python from:
 
 https://www.python.org/downloads/
 
-✔ Remember to tick **"Add Python to PATH"** during installation.
+Remember to tick **"Add Python to PATH"** during installation.
 
 ---
 
